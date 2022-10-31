@@ -108,3 +108,28 @@ An in-depth computer science roadmap that covers all the steps from theory to co
 - [Distributed Data Management (WT 2019/20) - Dr. Thorsten Papenbrock - HPI](https://www.tele-task.de/series/1285/)
 
 ------------------------------
+
+### Theoretical CS and Programming Languages
+
+- [Languages and Compilers Alex Aiken](https://archive.org/details/academictorrents_e31e54905c7b2669c81fe164de2859be4697013a/lectures/001-intro)
+- [CSEP 501 - Compiler Construction, University of Washington](https://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLTPQEx-31JXhfAWGnGzwbfhB2zUB7Jd4C))
+- [CS 164 Hack your language, UC Berkeley](https://sites.google.com/a/bodik.org/cs164/home) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLuhjguFxSeVLvKvWwTUIpVwXdLtZPX1ZS))
+- [CSE341 - Programming Languages, Dan Grossman, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
+- [CSEP 505 Programming Languages, Winter 2015 - University of Washington](https://courses.cs.washington.edu/courses/csep505/15wi/video/)
+- [DMFP - Discrete Mathematics and Functional Programming, Wheaton College](http://cs.wheaton.edu/~tvandrun/dmfp/)
+- [CS 374 - Algorithms & Models of Computation (Fall 2014), UIUC](https://www.youtube.com/watch?v=r71AWCnp1ZM&list=PL0v718LJg-7-O5n09pu1wS9mRG6omIWwa)
+- [CS581 Theory of Computation - Portland State University](http://web.cecs.pdx.edu/~harry/videos/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz))
+- [Theory of Computation - Fall 2011 UC Davis](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
+- [CSC 253 - CPython internals: A ten-hour codewalk through the Python interpreter source code, University of Rochester](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
+- [Functional Programming - University of Edinburgh - 2016-17](http://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
+- [Principles of Reactive Programming, Scala](https://www.youtube.com/playlist?list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+- [Category Theory for Programmers, 2014 - Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) ([YouTube](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_))
+- [Undergrad Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
+- [Graduate Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH)
+- [Great Ideas in Theoretical Computer Science at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) 
+- [Analysis of Boolean Functions at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YypJNaF6sRAf2zC1QzMuTA)
+- [Theoretical Computer Science (Bridging Course)(Tutorial) - SS 2015](http://ais.informatik.uni-freiburg.de/teaching/ss15/bridging/)
+- [Languages & Translators - UCLouvain LINFO2132](https://www.youtube.com/playlist?list=PLOech0kWpH8-njQpmSNGSiQBPUvl8v3IM) - [Slides](https://drive.google.com/drive/folders/1cMgLvEiaWsyfip8wJXXilVhvM2XDrS-6)
+- [FP 101x - Introduction to Functional Programming, TU Delft](https://ocw.tudelft.nl/courses/introduction-to-functional-programming/)
+- 
+------------------------------
