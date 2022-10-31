@@ -294,7 +294,7 @@ An in-depth computer science roadmap that covers all the steps from theory to co
 
 ------------------------------
 
-### Disctributed Systems
+### Distributed Systems
 
 - [CS 677 - Distributed Operating Systems, Spring 16 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbC68w0PW3huMHDDRNsDCTjp)
 - [CS 436 - Distributed Computer Systems - U Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
