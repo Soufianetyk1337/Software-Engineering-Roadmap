@@ -313,3 +313,30 @@ An in-depth computer science roadmap that covers all the steps from theory to co
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 ------------------------------
+
+### Coding Practice Sites 
+
+- [LeetCode](https://leetcode.com/)
+- [CodinGame](https://www.codingame.com/)
+- [Exercism](http://www.exercism.io/)
+- [CodeForces](http://codeforces.com/)
+- [CodeChef](https://www.codechef.com)
+- [Coderbyte](https://coderbyte.com/)
+- [Cs Academy](https://csacademy.com/)
+- [HackerRank](https://hackerrank.com/)
+- [Spoj](https://spoj.com/)
+- [HackerEarth](https://hackerearth.com/)
+- [TopCoder](https://www.topcoder.com/)
+- [Codewars](https://codewars.com/)
+- [CodeSignal](https://codesignal.com/)
+- [Project Euler](https://projecteuler.net/)
+- [Firecode.io](https://www.firecode.io/)
+- [InterviewBit](https://www.interviewbit.com/)
+- [uCoder](https://ucoder.com.br)
+- [LintCode](https://www.lintcode.com/)
+- [CodeCombat](https://codecombat.com/)
+- [InterviewCake](https://www.interviewcake.com/)
+- [At Coder](https://atcoder.jp/)
+- [Codility](https://www.codility.com/)
+
+------------------------------
