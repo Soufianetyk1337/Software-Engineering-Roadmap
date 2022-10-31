@@ -308,3 +308,8 @@ An in-depth computer science roadmap that covers all the steps from theory to co
 - [Database Internals: A deep-dive into how distributed data systems work](https://www.goodreads.com/book/show/44647144-database-internals) 
 
 ------------------------------
+
+### Free Books on Programming
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+
+------------------------------
