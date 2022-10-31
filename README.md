@@ -169,3 +169,26 @@ An in-depth computer science roadmap that covers all the steps from theory to co
   - [Parallel Programming Concepts (WT 2012/13) - HPI University of Potsdam](https://www.tele-task.de/series/924/)
 
 ------------------------------
+
+
+### Computer Networks
+
+- [CS 144 Introduction to Computer Networking - Stanford University, Fall 2013](http://www.scs.stanford.edu/10au-cs144/) ([Lecture videos](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z))
+- [Audio/Video Recordings and Podcasts of Professor Raj Jain's Lectures - Washington University in St. Louis](http://www.cse.wustl.edu/~jain/videos.htm) ([YouTube](https://www.youtube.com/user/ProfRajJain/playlists))
+- [Computer Networks, Tanenbaum, Wetherall Computer Networks 5e - Video Lectures](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html)
+- [CSEP 561 - PMP Network Systems, Fall 2013 - University of Washington](https://courses.cs.washington.edu/courses/csep561/13au/) ([Videos](https://courses.cs.washington.edu/courses/csep561/13au/video/))
+- [Introduction to Data Communications 2013, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx)
+- [Structural Analysis and Visualization of Networks](http://www.leonidzhukov.net/hse/2015/networks/)
+- [Error Correcting Codes - IISC Bangalore](https://nptel.ac.in/courses/117108044/)
+- [Information Theory and Coding - IIT Bombay](https://nptel.ac.in/courses/117101053/)
+- [Complex Network : Theory and Application - IIT Kharagpur](https://nptel.ac.in/courses/106105154/)
+- [Advanced 3G and 4G Wireless Mobile Communications - IIT Kanpur](https://nptel.ac.in/courses/117104099/)
+- [Broadband Networks: Concepts and Technology - IIT Bombay](https://nptel.ac.in/courses/117101050/)
+- [Coding Theory - IIT Madras](https://nptel.ac.in/courses/117106031/)
+- [Digital Communication - IIT Bombay](https://nptel.ac.in/courses/117101051/)
+- [Digital Voice & Picture Communication - IIT Kharagpur](https://nptel.ac.in/courses/117105081/)
+- [Wireless Ad Hoc and Sensor Networks - IIT Kharagpur](https://nptel.ac.in/courses/106105160/)
+- [Internetworking with TCP/IP by Prof. Dr. Christoph Meinel - HPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAfY5VrkObHTckZHwPsS1VCA)
+- [CS798: Mathematical Foundations of Computer Networking - University of Waterloo](https://www.youtube.com/playlist?list=PLFB088DB91845CA34)
+
+------------------------------
