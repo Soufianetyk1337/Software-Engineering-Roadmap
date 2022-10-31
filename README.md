@@ -292,3 +292,19 @@ An in-depth computer science roadmap that covers all the steps from theory to co
 - [Memory Systems Course - Technion, Summer 2018](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IymxXpH_9vlZCOeA7Yfn9)
 
 ------------------------------
+
+### Software Engineering Books
+- [The Art and Craft of Problem Solving](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving)
+- [How to Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
+- [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
+- [Cracking the Coding Interview](https://www.goodreads.com/book/show/55014663-cracking-the-coding-interview)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
+- [Clean Architecture: A Craftsman’s Guide to Software Structure and Design](https://www.goodreads.com/book/show/36239393-clean-architecture)
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.goodreads.com/book/show/85009.Design_Patterns)
+- [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) 
+- [The Algorithm Design Manual](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual)
+- [How to Solve It A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
+- [Database Internals: A deep-dive into how distributed data systems work](https://www.goodreads.com/book/show/44647144-database-internals) 
+
+------------------------------
