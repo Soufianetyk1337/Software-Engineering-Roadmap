@@ -326,7 +326,7 @@ An in-depth computer science roadmap that covers all the steps from theory to co
 - [The Algorithm Design Manual](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual)
 - [How to Solve It A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 - [Database Internals: A deep-dive into how distributed data systems work](https://www.goodreads.com/book/show/44647144-database-internals) 
-
+- [Introduction to Algorithms: A Creative Approach](https://www.amazon.com/Introduction-Algorithms-Creative-Udi-Manber/dp/0201120372)
 ------------------------------
 
 ### Free Books on Programming
