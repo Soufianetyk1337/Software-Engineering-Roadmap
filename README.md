@@ -361,3 +361,8 @@ An in-depth computer science roadmap that covers all the steps from theory to co
 - [Progvar](https://progvar.fun/)
 
 ------------------------------
+
+### Misc
+
+- [System Design Repo](https://github.com/karanpratapsingh/system-design)
+- [ChatRWKV is like ChatGPT but powered by RWKV](https://github.com/blinkdl/chatrwkv)
