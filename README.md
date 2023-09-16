@@ -197,6 +197,7 @@ An in-depth computer science roadmap that covers all the steps from theory to co
 ### Math for Computer Scientist
 
 - **Linear Algebra**
+  - [Linear algebra done right by sheldon axler](https://www.youtube.com/watch?v=lkx2BJcnyxk&list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw) 
   - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)
   - [18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning - MIT OCW](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
   - [Linear Algebra (Princeton University)](https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp)
