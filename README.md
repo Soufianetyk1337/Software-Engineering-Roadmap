@@ -3,9 +3,7 @@
 An in-depth computer science roadmap that covers all the steps from theory to conception
 
 ------------------------------
-
 ## Table of Contents
-
 ------------------------------
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -20,9 +18,9 @@ An in-depth computer science roadmap that covers all the steps from theory to co
 - [Distributed Systems](#distributed-systems)
 - [Software Engineering Books](#software-engineering-books)
 - [Free Books on Programming](#free-books-on-programming)
+- [Free Courses](#free-courses)
 - [Coding Practice Sites](#coding-practice-sites)
 - [Misc](#misc)
-
 ------------------------------
 
 ### Introduction to Computer Science
@@ -332,6 +330,11 @@ An in-depth computer science roadmap that covers all the steps from theory to co
 
 ### Free Books on Programming
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+
+------------------------------
+
+### Free Courses 
+- [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
 
 ------------------------------
 
