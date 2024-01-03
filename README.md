@@ -111,6 +111,7 @@ An in-depth computer science roadmap that covers all the steps from theory to co
 ### Theoretical CS and Programming Languages
 
 - [Languages and Compilers Alex Aiken](https://archive.org/details/academictorrents_e31e54905c7b2669c81fe164de2859be4697013a/lectures/001-intro)
+- [Compiler Construction](https://ucsd-cse131-f19.github.io/)
 - [CSEP 501 - Compiler Construction, University of Washington](https://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLTPQEx-31JXhfAWGnGzwbfhB2zUB7Jd4C))
 - [CS 164 Hack your language, UC Berkeley](https://sites.google.com/a/bodik.org/cs164/home) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLuhjguFxSeVLvKvWwTUIpVwXdLtZPX1ZS))
 - [CSE341 - Programming Languages, Dan Grossman, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
